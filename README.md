@@ -1,4 +1,4 @@
-# 📊 Machine Learning Fundamentals - Exercises & Implementation
+#  Machine Learning Fundamentals - Exercises & Implementation
 
 Kho lưu trữ này chứa các bài tập thực hành về toán học bổ trợ và các khái niệm cốt lõi trong Machine Learning, bao gồm Đại số tuyến tính, Giải tích, Xác suất thống kê và thuật toán tối ưu.
 
@@ -26,15 +26,15 @@ Kho lưu trữ này chứa các bài tập thực hành về toán học bổ tr
 * Xây dựng hàm mất mát **Binary Cross-Entropy (BCE)**.
 * Viết vòng lặp huấn luyện (Training Loop) bao gồm: Forward pass, tính Gradient và cập nhật trọng số.
 
-## 🛠 Công cụ sử dụng
+##  Công cụ sử dụng
 * **Ngôn ngữ:** Python 3.x
 * **Thư viện:** * `NumPy`: Tính toán ma trận và đại số tuyến tính.
     * `SymPy`: Giải đạo hàm bằng ký hiệu toán học.
     * `SciPy`: Xử lý các phân phối xác suất thống kê.
     * `Matplotlib`: (Tùy chọn) Để trực quan hóa đồ thị hàm mất mát.
 
-## 📝 Nhận xét cá nhân
-Qua các bài tập này, tôi đã hiểu rõ hơn về:
+##  Nhận xét cá nhân
+Qua các bài tập này, em đã hiểu rõ hơn về:
 1. Cách toán học vận hành dưới "nắp capo" của các mô hình học máy.
 2. Tại sao việc chuẩn hóa dữ liệu và chọn tốc độ học (Learning Rate) lại quan trọng.
 3. Tầm quan trọng của việc kiểm tra độ tương quan giữa các biến trước khi xây dựng mô hình.
